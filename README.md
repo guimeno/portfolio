@@ -1,4 +1,4 @@
-# DevPort - Modern Development Portfolio
+# My Modern Development Portfolio
 
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS. This project serves as both a showcase of development capabilities and a template for client projects.
 
